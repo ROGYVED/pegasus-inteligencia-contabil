@@ -3,7 +3,7 @@ const config: Config = {
   content: ["./app/**/*.{js,ts,jsx,tsx,mdx}", "./components/**/*.{js,ts,jsx,tsx,mdx}"],
   theme: { extend: {
     colors: {
-      navy: { 950: "#071426", 900: "#0b1d33", 800: "#102b49", 700: "#193b5d" },
+      navy: { 950: "#0c211c", 900: "#15352b", 800: "#214d3d", 700: "#32634d" },
       silver: "#d7e0ea",
       teal: "#1aa6a0"
     },
